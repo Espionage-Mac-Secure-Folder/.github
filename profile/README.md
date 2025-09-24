@@ -1,7 +1,7 @@
 # Espionage Mac – Advanced Folder Encryption for macOS
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/33192/m/msecure-logo.png?v=1661233671" alt="Espionage Mac Logo" width="256" height="256">  
+<img src="https://www.taoeffect.com/blog/wp-content/uploads/2012/05/Espionage3Banner.png" alt="Espionage Mac Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
